@@ -4,6 +4,8 @@
 2. Now you can moe the wallpaper.  
 3. Moe-ification of Ubuntu 20.04 LTS  
 (The moe wallpaper in the example has the moebuntu logo inserted separately, you can use gimp to insert the moebuntu_logo800new.png in the logo directory.)
+(Of course, you may want to use Variety or something similar to replace a lot of wallpaper.)
+
 ---
 # Moe-ify the font
 
