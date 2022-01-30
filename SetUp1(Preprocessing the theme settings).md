@@ -1,4 +1,4 @@
-#Preprocessing the theme settings
+# Preprocessing the theme settings
 Search for "GNOME Tweaks" from Ubuntu Software and install it. From a terminal (Ctrl+Alt+T), type the following to apply it. (not including the $)  
 	$ sudo apt install gnome-tweak-tool
 
