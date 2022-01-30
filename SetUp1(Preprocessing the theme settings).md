@@ -1,5 +1,6 @@
 # Preprocessing the theme settings
 Search for "GNOME Tweaks" from Ubuntu Software and install it. From a terminal (Ctrl+Alt+T), type the following to apply it. (not including the $)  
+  
 	$ sudo apt install gnome-tweak-tool
 
 Next, open Firefox, go to [GNOME Shell extensions](https://extensions.gnome.org/), and click on Install browser extensions by clicking here in the purple box.  
