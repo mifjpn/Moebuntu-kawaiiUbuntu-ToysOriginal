@@ -4,9 +4,9 @@
 Install "Alternatives Configurator (galternatives)" from "gnome-software".  
 If you want to install it from a terminal (Ctrl+Alt+T), do the following  
 
-	sudo apt install galternatives
+	$ sudo apt install galternatives
 
-*Configuration
+* Configuration
 
 From the search screen, search for "Alternatives Configurator", navigate to "gdm3-theme.gresource" in the left pane, right click on the empty space on the right and select "New".  
 Click "OK" without worrying about the excuse screen that appears.  
