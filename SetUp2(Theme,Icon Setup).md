@@ -13,4 +13,13 @@ In this case, the icons of the files in Nautilus opened with administrator privi
 
 ---
 Of course, you can also use "sudo cp..." to copy the files as well.
+  
+# Settings in GNOME Tweaks
 
+After completing the above preparations, launch GNOME Tweaks, open the Appearance tab, and configure the following settings.  
+
+(1) Go to Appearance > Applications > Moe (Color) BH  
+
+(2) Go to Appearance > Icons > MoePinkIcons  
+
+(3) Go to "Appearance" > "Gnome Shell" > "Moe (Color) Shell5".  
