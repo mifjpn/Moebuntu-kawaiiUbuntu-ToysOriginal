@@ -11,7 +11,9 @@ If you want to install it from a terminal (Ctrl+Alt+T), do the following
 From the search screen, search for "Alternatives Configurator", navigate to "gdm3-theme.gresource" in the left pane, right click on the empty space on the right and select "New".  
 Click "OK" without worrying about the excuse screen that appears.  
 When the configuration window opens, specify "gnome-shell-theme.gresource" in "/usr/share/themes/MoePinkShell5/gnome-shell/" that you have installed beforehand. In other words, the path will be as follows (you can copy and paste).  
-/usr/share/themes/MoePinkShell5/gnome-shell/gnome-shell-theme.gresource  
+
+	/usr/share/themes/MoePinkShell5/gnome-shell/gnome-shell-theme.gresource  
+
 Specify Priority as "20" or something appropriate.  
 After finishing the settings, click the "OK" button in the lower right corner to close the screen.  
 Now "/usr/share/themes/MoePinkShell5/gnome-shell/gnome-shell-theme.gresource" will be registered in the original screen. With the "●" on the left side selected, press the "Apply" button on the bottom right of the screen.  
