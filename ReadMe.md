@@ -17,5 +17,4 @@ Here are the files for Toys' LTS version as is.
 I'll also post Toy's explanation of his setup for each version.
 I hope you enjoy it.
 
-(The images in each color theme are examples. They do not include illustrations.)  
 (For GRUB backgrounds, you may want to use Grubcustomizer.)

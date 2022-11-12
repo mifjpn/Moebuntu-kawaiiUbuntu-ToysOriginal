@@ -1,16 +1,18 @@
-# Preprocessing the theme settings
-1.Search for "GNOME Tweaks" from Ubuntu Software and install it. From a terminal (Ctrl+Alt+T), type the following to apply it. (not including the $)  
+# Pre-processing of theme settings
+1. Install Extension Manager
+　From Terminal (Ctrl+Alt+T), type the following to install gnome-shell-extension-manager. (do not include $)  
   
-	$ sudo apt install gnome-tweak-tool
+	$ sudo apt install gnome-shell-extension-manager
 
-2.Next, open Firefox, go to [GNOME Shell extensions](https://extensions.gnome.org/), and click on Install browser extensions by clicking here in the purple box.  
-3.You will be prompted to install the add-on, click the Continue installation button.  
-4.You will also be asked for permission to add GNOME Shell Integration, click the Add button.  
-5.You will be prompted that GNOME Shell Integration has been added to Firefox, press the "OK" button.  
-6.Now, once you reload, the purple frame at the top will disappear. Next, click User Themes and select  
-7.User Themes page, and turn on the button on the right.  
-8.You will be asked if you want to install User Themes. Press the "Install" button.  
-9.User Themes is now "On" and you can use user themes.  
+2. Install User Themes
+Launch the Extension Manager, search for "User Themes" in the "Find" tab, and click the "Add" button to install. 
+Go to the "Added" tab and you will see that "User Themes" has been registered. First, activate the Extension by setting the button on the header to "ON" (to the right). Next, turn on the button to the right of "User Themes" as well. This will allow you to change the GNOME Shell theme.
+ 
+4. Install and prepare gnome-tweaks
+　Open Terminal (Ctrl+Alt+T) and type the following to apply and gnome-tweaks will be installed. (Terminal~$)
+
+    $ sudo apt install gnome-tweaks
   
-If you look at the Appearance > GNOME Shell section of GNOME Tweaks, you will see a selection button that allows you to change your user theme.
+Launch GNOME Tweaks and see.  If you look at the Appearance > GNOME Shell section, you will see a selection button to change the user theme.
 
+(See: Gnome-Shell-Extention is no longer available due to FireFox snap. In the appendix, I will write PPA for Deb installation of FireFox, etc. Please see).
