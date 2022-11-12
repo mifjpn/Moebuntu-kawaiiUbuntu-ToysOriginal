@@ -27,13 +27,13 @@ In this case, the icons of files in Nautilus opened with "$ sudo nautilus" with 
 After completing the above preparations, launch GNOME Tweaks, open the "Appearance" tab, and make the following settings 
 
 
-### (1) Select "Appearance" -> "Icons" -> "MoePinkIcons".
+(1) Select "Appearance" -> "Icons" -> "MoePinkIcons".
 
-### (2) Select "Appearance" > "Gnome Shell" > "Moe-(Color) 16".
+(2) Select "Appearance" > "Gnome Shell" > "Moe-(Color) 16".
 
-### (3) Select "Appearance" > "Legacy Applications" > "Moe-(Color) 16". 
+(3) Select "Appearance" > "Legacy Applications" > "Moe-(Color) 16". 
 
-
+---
 
 * Moeing Qt apps (turning them color)
 
