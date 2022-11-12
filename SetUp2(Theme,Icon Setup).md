@@ -1,25 +1,33 @@
-# Moe-ification procedure (GUI)
+# Moe-ization procedure (GUI)
 
-1.Unzip the above downloaded desktop theme "Moe-(color)15BH" and Shell theme "Moe-(color)Shell5" (from right mouse click) and put them in "/usr/share/themes/". You need administrator privileges to operate it, so open a terminal (Ctrl+Alt+T) and type the following to apply it. (do not include the $)  
+## 1. Download and install the theme
+Download the theme "moe-(color) 16.tar.gz" for each color in the above Theme(Window+Shell,9colors). (Please choose your favorite color). Unzip it (from right mouse click) and place it in "/usr/share/themes/". The operation requires administrator privileges, so open a terminal (Ctrl+Alt+T) and type the following to apply. (do not include the $)  
 
-	$ sudo nautilus /usr/share/themes/
+	$ sudo nautilus /usr/share/themes/ 
+
+and drop it in the window, it will be easy.
+
+## 2. Download and install icon theme
+
+Download and extract the icon theme "MoePinkIcons_2011117.tar.xz" in the same way and place it in "/usr/share/icons/".  
+
+	$ sudo nautilus /usr/share/icons/ 
+
+and drop it into the window.
+
+* You can also create a hidden folder ".icons" in your home folder and put the icon theme "MoePinkIcons" in it. 
+In this case, the icons of files in Nautilus opened with "$ sudo nautilus" with administrator privileges will be the default (Adwaita) ones that are not moe-ized.
+
+---.
+Of course, it is possible to copy files with "sudo cp... You can also copy files with "sudo cp...".
   
-Unzip the icon theme "MoePinkIcons" in the same way, and put it in "/usr/share/icons/".  
+# Configuration in GNOME Tweaks
 
-	$ sudo nautilus /usr/share/icons/
+After completing the above preparations, launch GNOME Tweaks, open the "Appearance" tab, and make the following settings 
 
-* You can also create a hidden folder ".icons" in your home folder and put the icon theme "MoePinkIcons" in it.  
-In this case, the icons of the files in Nautilus opened with administrator privileges "$ sudo nautilus" will be the default (Adwaita) ones, which are not moe-ified.
 
----
-Of course, you can also use "sudo cp..." to copy the files as well.
-  
-# Settings in GNOME Tweaks
+(1) Select "Appearance" -> "Icons" -> "MoePinkIcons".
 
-After completing the above preparations, launch GNOME Tweaks, open the Appearance tab, and configure the following settings.  
+(2) Select "Appearance" > "Gnome Shell" > "Moe (Color) 16".
 
-(1) Go to Appearance > Applications > Moe (Color) BH  
-
-(2) Go to Appearance > Icons > MoePinkIcons  
-
-(3) Go to "Appearance" > "Gnome Shell" > "Moe (Color) Shell5".  
+(3) Select "Appearance" > "Legacy Applications" > "Moe (Color) 16". 
