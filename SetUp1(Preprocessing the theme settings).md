@@ -10,7 +10,7 @@
 Launch the Extension Manager, search for "User Themes" in the "Find" tab, and click the "Add" button to install. 
 Go to the "Added" tab and you will see that "User Themes" has been registered. First, activate the Extension by setting the button on the header to "ON" (to the right). Next, turn on the button to the right of "User Themes" as well. This will allow you to change the GNOME Shell theme.
  
-4. Install and prepare gnome-tweaks
+. Install and prepare gnome-tweaks
 
 　Open Terminal (Ctrl+Alt+T) and type the following to apply and gnome-tweaks will be installed. (Terminal~$)
 
