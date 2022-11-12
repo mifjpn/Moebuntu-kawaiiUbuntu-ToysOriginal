@@ -32,3 +32,11 @@ After completing the above preparations, launch GNOME Tweaks, open the "Appearan
 (2) Select "Appearance" > "Gnome Shell" > "Moe-(Color) 16".
 
 (3) Select "Appearance" > "Legacy Applications" > "Moe-(Color) 16". 
+
+* Moeing Qt apps (turning them pink)
+
+You can moe Qt5-based apps such as VLC and QuiteRSS.
+Just open a terminal (Ctrl+Alt+T) and type the following to apply. (do not include the $)
+
+    $ sudo apt install qt5-style-plugins
+    $ echo "export QT_QPA_PLATFORMTHEME=gtk2" >> ~/.profile
