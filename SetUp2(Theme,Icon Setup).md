@@ -29,6 +29,6 @@ After completing the above preparations, launch GNOME Tweaks, open the "Appearan
 
 (1) Select "Appearance" -> "Icons" -> "MoePinkIcons".
 
-(2) Select "Appearance" > "Gnome Shell" > "Moe (Color) 16".
+(2) Select "Appearance" > "Gnome Shell" > "Moe-(Color) 16".
 
-(3) Select "Appearance" > "Legacy Applications" > "Moe (Color) 16". 
+(3) Select "Appearance" > "Legacy Applications" > "Moe-(Color) 16". 
