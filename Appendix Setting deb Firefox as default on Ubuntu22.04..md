@@ -13,7 +13,7 @@
 
     $ sudo gedit /etc/apt/preferences.d/99mozillateamppa
 
- *content
+ * Content
 
     Package: firefox*
     Pin: release o=LP-PPA-mozillateam
