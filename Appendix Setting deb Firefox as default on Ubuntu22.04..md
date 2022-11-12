@@ -1,4 +1,4 @@
-# Delete Snap version
+# AppendixSetting deb Firefox as default on Ubuntu22.04
 
 ## 1.Uninstall snap firefox
 
